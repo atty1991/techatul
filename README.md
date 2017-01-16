@@ -1,0 +1,2 @@
+# techatul
+full devlopment
